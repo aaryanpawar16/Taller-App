@@ -6,11 +6,11 @@
 
 ## 📱 Screenshots
 
-> *(Add your screenshots here)*
 
 | Home | Routine | Sleep | Nutrition | Progress |
 |------|---------|-------|-----------|----------|
-| ![home](./screenshots/home.png) | ![routine](./screenshots/routine.png) | ![sleep](./screenshots/sleep.png) | ![nutrition](./screenshots/nutrition.png) | ![progress](./screenshots/progress.png) |
+| ![home](<img width="314" height="692" alt="image" src="https://github.com/user-attachments/assets/1492ebcc-4481-4770-a8c4-4eb4d75b90b6" />
+) | ![routine](./screenshots/routine.png) | ![sleep](./screenshots/sleep.png) | ![nutrition](./screenshots/nutrition.png) | ![progress](./screenshots/progress.png) |
 
 ---
 
