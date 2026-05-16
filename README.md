@@ -6,16 +6,32 @@
 
 ## 📱 Screenshots
 
-
-| Home | Routine | Sleep | Nutrition | Progress |
-|------|---------|-------|-----------|----------|
-| ![home](<img width="314" height="692" alt="image" src="https://github.com/user-attachments/assets/1492ebcc-4481-4770-a8c4-4eb4d75b90b6" />
-) | ![routine](<img width="316" height="698" alt="image" src="https://github.com/user-attachments/assets/db4d938d-9eba-49b4-82fb-d29e02bf86e3" />
-) | ![sleep](<img width="307" height="698" alt="image" src="https://github.com/user-attachments/assets/a97b4ef1-de8f-45fe-a550-63cc5c825bfa" />
-) | ![nutrition](<img width="302" height="694" alt="image" src="https://github.com/user-attachments/assets/a54d2871-b413-4311-b2db-16180aac9d0a" />
-) | ![progress](<img width="307" height="695" alt="image" src="https://github.com/user-attachments/assets/f18f46ce-b4ed-4836-bdcd-e87dd9b2a4d4" />
-) |
-
+<table>
+  <tr>
+    <th>Home</th>
+    <th>Routine</th>
+    <th>Sleep</th>
+    <th>Nutrition</th>
+    <th>Progress</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1492ebcc-4481-4770-a8c4-4eb4d75b90b6" width="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/db4d938d-9eba-49b4-82fb-d29e02bf86e3" width="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a97b4ef1-de8f-45fe-a550-63cc5c825bfa" width="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a54d2871-b413-4311-b2db-16180aac9d0a" width="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f18f46ce-b4ed-4836-bdcd-e87dd9b2a4d4" width="180"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## ✨ Features
