@@ -153,7 +153,6 @@ This app was built with Claude (Anthropic) as the primary AI development assista
 ## 🙏 Acknowledgements
 
 - Reference app: [Taller – Maximize your height](https://apps.apple.com/us/app/taller-maximize-your-height/id6695758303)
-- Challenge by: [8xsocial](https://github.com/8xsocial/template-mobile)
 - Built with: Claude Sonnet by Anthropic
 
 ---
